@@ -799,16 +799,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "8.5.0",
+            "version": "8.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "f8aca40edffeae0ec508b92f4594766083c6e203"
+                "reference": "5509cc8494c9016a08801cd328e0559bf356852e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/f8aca40edffeae0ec508b92f4594766083c6e203",
-                "reference": "f8aca40edffeae0ec508b92f4594766083c6e203",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/5509cc8494c9016a08801cd328e0559bf356852e",
+                "reference": "5509cc8494c9016a08801cd328e0559bf356852e",
                 "shasum": ""
             },
             "require": {
@@ -906,7 +906,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/8.5.0"
+                "source": "https://github.com/guzzle/guzzle/tree/8.5.1"
             },
             "funding": [
                 {
@@ -922,7 +922,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-13T03:12:32+00:00"
+            "time": "2026-11-17T03:22:13+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2518,16 +2518,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "3.12.1",
+            "version": "3.13.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "d7059e4c691d05ea1222b5124bed0f961be46e15"
+                "reference": "1f5f55bb4a9a230ff6d8a4ceccea31d10b0142ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/d7059e4c691d05ea1222b5124bed0f961be46e15",
-                "reference": "d7059e4c691d05ea1222b5124bed0f961be46e15",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/1f5f55bb4a9a230ff6d8a4ceccea31d10b0142ac",
+                "reference": "1f5f55bb4a9a230ff6d8a4ceccea31d10b0142ac",
                 "shasum": ""
             },
             "require": {
@@ -2607,7 +2607,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/3.12.1"
+                "source": "https://github.com/Seldaek/monolog/tree/3.13.0"
             },
             "funding": [
                 {
@@ -2619,7 +2619,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-09-29T19:21:12+00:00"
+            "time": "2026-11-16T10:43:05+00:00"
         },
         {
             "name": "nesbot/carbon",
